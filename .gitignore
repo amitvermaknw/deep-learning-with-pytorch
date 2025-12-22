@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+src/image-classification/assignment/EMNIST_data/EMNIST/raw/gzip.zip
+
+src/image-classification/assignment/EMNIST_data/EMNIST/raw/gzip.zip
+src/image-classification/assignment/EMNIST_data/EMNIST/raw/
+.DS_Store
