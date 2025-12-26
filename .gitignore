@@ -210,3 +210,6 @@ src/image-classification/assignment/EMNIST_data/EMNIST/raw/gzip.zip
 src/image-classification/assignment/EMNIST_data/EMNIST/raw/gzip.zip
 src/image-classification/assignment/EMNIST_data/EMNIST/raw/
 .DS_Store
+
+src/data-management/flower_data
+src/data-management/corrupted_flower_data
