@@ -213,3 +213,5 @@ src/image-classification/assignment/EMNIST_data/EMNIST/raw/
 
 src/data-management/flower_data
 src/data-management/corrupted_flower_data
+
+src/cnn/cifar_100
