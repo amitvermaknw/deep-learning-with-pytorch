@@ -215,3 +215,5 @@ src/data-management/flower_data
 src/data-management/corrupted_flower_data
 
 src/cnn/cifar_100
+
+src/cnn/dataset
