@@ -68,7 +68,7 @@ Start with the basic notebooks and progress step by step:
 3. **Building Simple Neural Networks**
 4. **MNIST / CIFAR-10 Classification**
 5. **Advanced Topics**  
-   *(GANs, Transformers, etc. — as they are added)*
+   -    Coming soon...
 
 This progression helps build strong fundamentals before moving into advanced deep learning concepts.
 
