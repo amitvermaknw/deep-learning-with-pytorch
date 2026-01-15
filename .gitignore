@@ -217,3 +217,5 @@ src/data-management/corrupted_flower_data
 src/cnn/cifar_100
 
 src/cnn/dataset
+src/hyperparameter/cifar10
+src/hyperparameter/cifar10_3class_imbalanced
