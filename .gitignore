@@ -221,3 +221,4 @@ src/hyperparameter/cifar10
 src/hyperparameter/cifar10_3class_imbalanced
 src/schedulers/cifar10
 src/optuna-hyperparameter/cifar10
+src/efficiency-performance/cifar10
